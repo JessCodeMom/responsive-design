@@ -82,7 +82,7 @@ box-sizing: border-box;
  }
  .sign-up {
    height: 200px;
-   order: -3;
+   order: 1;
 }
 .content {
   order: 2;
